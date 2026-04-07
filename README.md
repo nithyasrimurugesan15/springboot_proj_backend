@@ -56,7 +56,7 @@ academic-management-system/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/academic-management-system.git
+git clone https://github.com/nithyasrimurugesan15/academic-management-system.git
 cd academic-management-system
 ```
 
