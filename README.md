@@ -1,4 +1,4 @@
-# 🎓 Academic Management System
+# 🎓 Employee Management System
 
 A full-stack Academic Management System built using Spring Boot that helps manage students, courses, faculty, and academic operations efficiently.
 
